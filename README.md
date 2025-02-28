@@ -16,8 +16,7 @@ Check it out here: [Calc Blue](https://calc-blue-beta.vercel.app/)
 - Simple, minimalistic design for distraction-free usage.
 
 ## Tech Stack
-HTML: Structure of the webpage.
-CSS: Styling and layout of the calculator.
-JavaScript: Functionality and dynamic behavior of the calculator.
-Vercel: For hosting the live version of the app.
-Installation
+- HTML: Structure of the webpage.
+- CSS: Styling and layout of the calculator.
+- JavaScript: Functionality and dynamic behavior of the calculator.
+- Vercel: For hosting the live version of the app.
