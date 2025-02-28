@@ -20,3 +20,12 @@ Check it out here: [Calc Blue](https://calc-blue-beta.vercel.app/)
 - CSS: Styling and layout of the calculator.
 - JavaScript: Functionality and dynamic behavior of the calculator.
 - Vercel: For hosting the live version of the app.
+
+## Contributing
+We welcome contributions from the community to enhance the functionality and features of Calc Blue. To contribute:
+
+- Fork the repository.
+- Create a new branch for your feature (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -m 'Add new feature').
+- Push the changes to your branch (git push origin feature-branch).
+- Submit a Pull Request, explaining what changes you've made.
